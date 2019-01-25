@@ -1,9 +1,3 @@
-const a='a';
+import style from "./css.css";
 
-const util = {};
-
-util.test = () =>{
-    console.log('test function');
-}
-
-console.log(a);
+let arr = [1, 2, 3];

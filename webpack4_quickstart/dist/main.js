@@ -86,14 +86,26 @@
 /************************************************************************/
 /******/ ({
 
+/***/ "./src/css.css":
+/*!*********************!*\
+  !*** ./src/css.css ***!
+  \*********************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// extracted by mini-css-extract-plugin\n\n//# sourceURL=webpack:///./src/css.css?");
+
+/***/ }),
+
 /***/ "./src/index.js":
 /*!**********************!*\
   !*** ./src/index.js ***!
   \**********************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! no exports provided */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("const a='a';\r\n\r\nconst util = {};\r\n\r\nutil.test = () =>{\r\n    console.log('test function');\r\n}\r\n\r\nconsole.log(a);\n\n//# sourceURL=webpack:///./src/index.js?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _css_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./css.css */ \"./src/css.css\");\n/* harmony import */ var _css_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_css_css__WEBPACK_IMPORTED_MODULE_0__);\n\nvar arr = [1, 2, 3];\n\n//# sourceURL=webpack:///./src/index.js?");
 
 /***/ })
 
